@@ -1,0 +1,156 @@
+
+.navbar{
+    /* background-color: #2B4141; */
+    background-color: #0EB1D2;
+    padding: 10px;
+}
+
+.content{
+    margin-left: 20px;
+}
+
+.content img{
+    height: 500px;
+}
+
+.navbar a{
+    text-decoration: none;
+    font-weight: 900;
+    /* color: #0EB1D2; */
+    color: #313628;
+    margin-left: 16px;
+}
+
+.navbar span{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.navbar a:hover{
+    color: white;
+}
+
+.altStoreCategoryCol1{
+    background-color: #C8C2AE;
+}
+
+.altStoreCategoryCol2{
+    background-color: #8AB9B5; 
+}
+
+body{
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* color: #313628; */
+    color: #2B4141;
+    font-weight: 500;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+h2{
+    color: #2B4141;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.storeCategory{
+    border-style: solid;
+    border: 1px 1px 1px 1px;
+    border-color: #2B4141;
+    margin-bottom: 20px;
+}
+
+.storeCategory h2{
+    text-align: center;
+}
+
+.storeLink a{
+    display: block;
+    text-decoration: none;
+    color: #2B4141;
+    font-size: 20px;
+}
+
+.storeLink img{
+    display: inline;
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 10%;
+}
+
+.storeLink p{
+    display: inline;
+    float: right;
+    width: 40%;
+    margin: 0px 0px 0px 0px;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+img{
+    max-width: 100%;
+}
+
+.shopLogo{
+    width: 50%;
+}
+
+.movieLink{
+    text-decoration: none;
+    color: #2B4141;
+    /* border: 1px 1px 1px 1px;
+    border-style: solid; */
+}
+
+.movieLinkDetails{
+    border: 1px 1px 1px 1px;
+    border-color: #2B4141;
+    border-style: solid;
+    padding-left: 10%;
+    margin-bottom: 10px;
+}
+
+.movieDetails{
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.form{
+    margin-left: 5%;
+}
+
+input{
+    display: block;
+    margin-bottom: 10px;
+}
+
+textarea{
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+button{
+    display: block;
+}
+
+.specialProduct{
+    margin-left: 10px;
+    border-bottom: 1px 1px 1px 1px;
+    border-style: solid;
+    
+}
+
+.specialProduct p{
+    margin-left: 10px;
+}
+
+.specialProduct img{
+    margin-top: 10px;
+    height: 300px;
+    margin-left: 10px;
+}

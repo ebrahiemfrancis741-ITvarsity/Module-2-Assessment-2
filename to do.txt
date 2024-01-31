@@ -1,0 +1,72 @@
+
+Do research on a real life mall to see what stores and stuff it has
+
+* IDEA * - MAYBE USE FUCJKING AI TO GET MALL IMAGES?
+
+* = kinda done
+# = to finish next
+
+
+1. Special offers at select stores in the mall (make links to the store) (do this after all the store pages are done)
+*2. About page - Images of the mall (inside, outside)
+*3. Make a 2d top-down map of the mall, use research from mall for inpiration on store locations and stuff (used AI genrerated map instead)
+*4. shops page
+    categories
+    - 2 clothing stores (Ackermans), (Mr Price)
+    - 1 supermarkets (Checkers)
+    - 3 restaurants (Mugg & Bean), (Spur), (Wimpy)
+    - 2 electronics stores (Computer Mania), (Incredible Connection)
+
+*5. Individual pages for each shop
+    *clothing store1     (Ackermans)
+    *- logo
+    *- store information
+    *- 2,3 pictures
+    *clothing store2     (Mr Price)
+    *- logo
+    *- store information
+    *- 2,3 pictures
+    *supermarket1        (Checkers)
+    *- logo
+    *- store information
+    *- 2,3 pictures
+    *restaurant1
+    *- logo
+    *- store information
+    *- 2,3 pictures
+    *restaurant2
+    *- logo
+    *- store information
+    *- 2,3 pictures
+    *restaurant3
+    *- logo
+    *- store information
+    *- 2,3 pictures
+    *electronic store1
+    *- logo
+    *- store information
+    *- 2,3 pictures
+    *electronic store2
+    *- logo
+    *- store information
+    *- 2,3 pictures
+
+*6. Movies page - list of movies currently showing
+*    movie1 (picture, title, list of main actors, age restriction)
+*    movie2 (picture, title, list of main actors, age restriction)
+*    movie3 (picture, title, list of main actors, age restriction)
+*    movie4 (picture, title, list of main actors, age restriction)
+*    movie5 (picture, title, list of main actors, age restriction)
+
+7. Indidual movie pages
+    movie1 (title, poster, main actors, age restriction, showing times, brief synopsis)
+    movie2 (title, poster, main actors, age restriction, showing times, brief synopsis)
+    movie3 (title, poster, main actors, age restriction, showing times, brief synopsis)
+    movie4 (title, poster, main actors, age restriction, showing times, brief synopsis)
+
+8. Contact page
+    - picture of mall
+    - address
+    - contact information
+    - business hours
+    - contact form
